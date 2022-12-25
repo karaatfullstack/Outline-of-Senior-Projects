@@ -5,11 +5,11 @@
 
 Weeks 1 - 2 (Presenting on Wed. AM of Week 2)
 
-    - similar to JPFP except uses authentication and has a shopping cart
-    - Groups of 3 - 4 students
+   - similar to JPFP except uses authentication and has a shopping cart
+   - Groups of 3 - 4 students
     
 2. **[Stackathon](https://github.com/FullstackAcademy/2022-PILOT-program-guide-web-core/tree/main/04-sr-phase/03-stackathon)** 
-3. 
+
 Week 2 (Wednesday PM through Sunday)
 
 - Each student designs and builds a project over a 5-day hackathon. 
