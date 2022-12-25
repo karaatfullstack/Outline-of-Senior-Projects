@@ -35,6 +35,7 @@ Weeks 3 - 6
    - Groups of 4 - 5 - create novel application that solves a problem
    - Students architect app using GHP curriculum and tech ***they’ve used previously***.
    - Students demo their application, articulating the product goals in concise technical detail
-            - Using technologies not covered in class or in your PEP/ Async Week project:
-            - Must be approved by member of instructional team
-            - Can be used ONLY for features, not core functionality of your application (this means things like CSS libraries would be fine, but writing the entire app using a new framework that affects the actual functions is not allowed)
+            
+        - Using technologies not covered in class or in your PEP/ Async Week project:
+        - Must be approved by member of instructional team
+        - Can be used ONLY for features, not core functionality of your application (this means things like CSS libraries would be fine, but writing the entire app using a new framework that affects the actual functions is not allowed)
