@@ -5,7 +5,7 @@
 
    Weeks 1 - 2 (Presenting on Wed. AM of Week 2)
 
-- similar to JPFP except uses authentication and has a shopping cart
+- Similar to JPFP except uses authentication and has a shopping cart
 - Groups of 3 - 4 students
     
 2. **[Stackathon](https://github.com/FullstackAcademy/2022-PILOT-program-guide-web-core/tree/main/04-sr-phase/03-stackathon)** 
