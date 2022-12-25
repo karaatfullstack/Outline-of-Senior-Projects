@@ -5,21 +5,20 @@
 
    Weeks 1 - 2 (Presenting on Wed. AM of Week 2)
 
-   - similar to JPFP except uses authentication and has a shopping cart
-   - Groups of 3 - 4 students
+- similar to JPFP except uses authentication and has a shopping cart
+- Groups of 3 - 4 students
     
 2. **[Stackathon](https://github.com/FullstackAcademy/2022-PILOT-program-guide-web-core/tree/main/04-sr-phase/03-stackathon)** 
 
    Week 2 (Wednesday PM through Sunday)
 
-- Each student designs and builds a project over a 5-day hackathon. 
-- This is a solo project
+- This is a solo project - each student designs and builds a project over a 5-day hackathon. 
 
-     - Students will themselves a new technology, language, or framework
-     - record a 3-5 min video and upload to YouTube (like Async Week Project)
-     - (in groups of ~5), they will present their video in a Zoom room to the class
+     - Students will teach themselves a new technology, language, or framework
+     - They will record a 3-5 min video and upload to YouTube (like their Async Week Project)
+     - They will present their video in a Zoom room to the class with opportunities to answer questions
         
-3. **[Profile Enrichment Piece](https://github.com/FullstackAcademy/2022-PILOT-program-guide-web-core/blob/main/04-sr-phase/07-portfolio-enrichment-piece/01-lesson-plan.md) ** 
+3. **[Profile Enrichment Piece](https://github.com/FullstackAcademy/2022-PILOT-program-guide-web-core/blob/main/04-sr-phase/07-portfolio-enrichment-piece/01-lesson-plan.md)** 
 
    Weeks 2 - 5 (Have topic picked in Week 2, draft complete in Week 4, and final due Friday of Week 5)
 
