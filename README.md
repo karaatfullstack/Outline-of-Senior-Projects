@@ -23,9 +23,10 @@
    Weeks 2 - 5 (Have topic picked in Week 2, draft complete in Week 4, and final due Friday of Week 5)
 
  - This is a solo assignment 
+ - 
+     - This is meant to enhance each student's graduation portfolio
  - Each student creates an article or video presenting a "deep dive" into a technical topic not explicitly covered in GHP's curriculum
  - Students will effectively communicate complex technical topics to a non-layman reader (or viewer)
-     - This is meant to enhance each student's graduation portfolio
      - Drafts will be created and reviewed by peers before finishing the project
 
 4. **[Senior Capstone](https://github.com/FullstackAcademy/2022-PILOT-program-guide-web-core/blob/main/04-sr-phase/04-capstone/01-Lesson-Plan.md)** 
@@ -34,8 +35,8 @@
 
  - Groups of 4 - 5 - create novel application that solves a problem
  - Students architect app using GHP curriculum and tech ***they’ve used previously***.
- - Students demo their application, articulating the product goals in concise technical detail
-            
-    - Using technologies not covered in class or in your PEP/ Async Week project:
+ - Students demo their application, articulating the product goals in concise technical detail           
+ - If using technologies not covered in class or in your PEP/ Async Week project:
+ - 
     - Must be approved by member of instructional team
     - Can be used ONLY for features, not core functionality of your application (this means things like CSS libraries would be fine, but writing the entire app using a new framework that affects the actual functions is not allowed)
