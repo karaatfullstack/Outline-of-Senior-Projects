@@ -17,6 +17,7 @@ Week 2 (Wednesday PM through Sunday)
 3. **[Profile Enrichment Piece](https://github.com/FullstackAcademy/2022-PILOT-program-guide-web-core/blob/main/04-sr-phase/07-portfolio-enrichment-piece/01-lesson-plan.md) -** 
 
 Weeks 2 - 5 (Have topic picked in Week 2, draft complete in Week 4, and final due Friday of Week 5)
+
     - This is a solo assignment 
     - Each student creates an article or video presenting a "deep dive" into a technical topic not explicitly covered in GHP's curriculum
     - Students will effectively communicate complex technical topics to a non-layman reader (or viewer)
@@ -26,6 +27,7 @@ Weeks 2 - 5 (Have topic picked in Week 2, draft complete in Week 4, and final du
 4. **[Senior Capstone](https://github.com/FullstackAcademy/2022-PILOT-program-guide-web-core/blob/main/04-sr-phase/04-capstone/01-Lesson-Plan.md)** 
 
 Weeks 3 - 6
+
     - Groups of 4 - 5 - create novel application that solves a problem
     - Students architect app using GHP curriculum and tech ***they’ve used previously***.
     - Students demo their application, articulating the product goals in concise technical detail
