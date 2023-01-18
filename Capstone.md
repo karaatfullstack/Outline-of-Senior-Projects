@@ -17,11 +17,7 @@
 
 
 ### Additional Resources
-
-
-* [Suggested Capstone Ideas](https://github.com/FullstackAcademy/default-capstone-ideas)
-* [Teammaker Repo](https://github.com/FullstackAcademy/teammaker)
-* [Various Tips & Tricks for Presenting your Capstone](https://gist.github.com/jbracht/34d3e921c6d9eb94086c356a4588a959), including:
+  * [Various Tips & Tricks for Presenting your Capstone](https://gist.github.com/jbracht/34d3e921c6d9eb94086c356a4588a959), including:
   * General presentation advice for script and delivery
   * "Storyfying your demo"
   * Video/Screencast tips and setup
