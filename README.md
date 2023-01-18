@@ -1,7 +1,7 @@
 # Outline-of-Senior-Projects
 ## Overview of projects
 
-1. **Grace Shopper**
+### 1. Grace Shopper
  
 [Instructor Page](https://github.com/FullstackAcademy/2022-PILOT-program-guide-web-core/tree/main/04-sr-phase/02-grace-shopper)
 
@@ -12,7 +12,8 @@
 - Similar to JPFP except uses authentication and has a shopping cart
 - Groups of 3 - 4 students
     
-2. **Stackathon** 
+### 2. Stackathon
+
 [Instructor Page](https://github.com/FullstackAcademy/2022-PILOT-program-guide-web-core/tree/main/04-sr-phase/03-stackathon)
 
 [Student Page](https://github.com/karaatfullstack/2023-Senior-Phase/blob/main/Week%202/Stackathon/Student-Readme.md)
@@ -25,17 +26,18 @@
      - They will record a 3-5 min video and upload to YouTube (like their Async Week Project)
      - They will present their video in a Zoom room to the class with opportunities to answer questions
         
-3. **[Profile Enrichment Piece](https://github.com/FullstackAcademy/2022-PILOT-program-guide-web-core/blob/main/04-sr-phase/07-portfolio-enrichment-piece/01-lesson-plan.md)** 
+### 3. Profile Enrichment Piece 
 
-   Weeks 2 - 5 (Have topic picked in Week 2, draft complete in Week 4, and final due Friday of Week 5)
+[Instructor Page](https://github.com/karaatfullstack/2023-Senior-Phase/blob/main/Week%201/Portfolio-Enrich-Piece.md)
 
- - This is a solo assignment 
- 
-     - This is meant to enhance each student's graduation portfolio
- - Each student creates an article or video presenting a "deep dive" into a technical topic not explicitly covered in GHP's curriculum
- - Students will effectively communicate complex technical topics to a non-layman reader (or viewer)
+[Student Page](https://github.com/karaatfullstack/Outline-of-Senior-Projects/blob/main/PEP.md)
 
-     - Drafts will be created and reviewed by peers before finishing the project
+Week 3 - Week 6
+- This is a solo assignment, meant to enhance each student's graduation portfolio.
+
+  - Each student creates an article or video presenting a "deep dive" into a technical topic not explicitly covered in GHP's curriculum
+  - Students will effectively communicate complex technical topics to a non-layman reader (or viewer)
+  - Drafts will be created and reviewed by peers before finishing the project
 
 4. **[Senior Capstone](https://github.com/FullstackAcademy/2022-PILOT-program-guide-web-core/blob/main/04-sr-phase/04-capstone/01-Lesson-Plan.md)** 
 
