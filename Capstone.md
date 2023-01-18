@@ -17,8 +17,7 @@
 
 
 ### Additional Resources
-  * [Various Tips & Tricks for Presenting your Capstone](https://gist.github.com/jbracht/34d3e921c6d9eb94086c356a4588a959), including:
+[Tips & Tricks for Presenting your Capstone](https://gist.github.com/jbracht/34d3e921c6d9eb94086c356a4588a959), including:
   * General presentation advice for script and delivery
   * "Storyfying your demo"
   * Video/Screencast tips and setup
-- [How to make a demo day playlist](https://docs.google.com/document/d/10yykKwvMrVMC-wVGh8F9SybBg-19ttTB8M_tZ0E9Dgs/edit)
