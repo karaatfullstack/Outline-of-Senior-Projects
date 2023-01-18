@@ -1,7 +1,20 @@
-# Outline-of-Senior-Projects
+# Outline of Senior Projects
 ## Overview of projects
 
-### 1. Grace Shopper
+### 0. Async Week Project (AWP)
+[General Link](https://github.com/karaatfullstack/Async-Week-Guide#-async-week-project-)
+
+**Solo Project Comparison**
+This is technically not part of senior phase, but since it is one of 5 total projects students complete, it's being included here. 
+AWP is one of 3 solo projects you'll undertake at Grace Hopper, the other two being Stackathon and PEP.
+- AWP and Stackathon will likely have you building out an application using a technology of your choice. There is no threat of failure for these, they are simply an opportunity to learn something completely different from our curriculum. That said, building an entire project is optional - the main goal is to present a new topic to your classmates via a pre-recorded video.
+- PEP is more in-depth and we expect a polished result. This one is meant to suppliment your developer portfolio, and therefore will be publicly-facing for potential employers. It can still be on any topic, but the information should be conveyed at a more advanced and professional level, via either YouTube video or Medium article.
+
+**Notes**
+There may be a topic you use for 2 of these 3 projects - that's fine. Many students see Stackathon as an extension of AWP, and others see PEP as an extention of Stackathon. As long as you are meeting the criteria, you can chose the same topic for two projects. The third project can also be related, but try to learn more than one technology between the three.
+
+
+### 1. Grace Shopper Project (GSP)
  
 [Instructor Page](https://github.com/FullstackAcademy/2022-PILOT-program-guide-web-core/tree/main/04-sr-phase/02-grace-shopper)
 
@@ -26,7 +39,7 @@
      - They will record a 3-5 min video and upload to YouTube (like their Async Week Project)
      - They will present their video in a Zoom room to the class with opportunities to answer questions
         
-### 3. Profile Enrichment Piece 
+### 3. Profile Enrichment Piece (PEP)
 
 [Instructor Page](https://github.com/karaatfullstack/2023-Senior-Phase/blob/main/Week%201/Portfolio-Enrich-Piece.md)
 
@@ -39,8 +52,11 @@ Week 3 - Week 6
   - Students will effectively communicate complex technical topics to a non-layman reader (or viewer)
   - Drafts will be created and reviewed by peers before finishing the project
 
-4. **[Senior Capstone](https://github.com/FullstackAcademy/2022-PILOT-program-guide-web-core/blob/main/04-sr-phase/04-capstone/01-Lesson-Plan.md)** 
+### 4. Senior Capstone
+[Instructor Page](https://github.com/FullstackAcademy/2022-PILOT-program-guide-web-core/blob/main/04-sr-phase/04-capstone/01-Lesson-Plan.md)
 
+[Student Page](https://github.com/karaatfullstack/Outline-of-Senior-Projects/blob/main/Capstone.md)
+   
    Weeks 3 - 6
 
  - Groups of 4 - 5 - create novel application that solves a problem
