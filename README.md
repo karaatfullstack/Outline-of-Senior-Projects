@@ -1,7 +1,8 @@
 # Outline-of-Senior-Projects
 ## Overview of projects
 
-1. **[Grace Shopper](https://github.com/FullstackAcademy/2022-PILOT-program-guide-web-core/tree/main/04-sr-phase/02-grace-shopper)** 
+1. **Grace Shopper**
+ 
 [Instructor Page](https://github.com/FullstackAcademy/2022-PILOT-program-guide-web-core/tree/main/04-sr-phase/02-grace-shopper)
 
 [Student Page](https://github.com/karaatfullstack/Outline-of-Senior-Projects/blob/main/GSP.md)
@@ -11,7 +12,7 @@
 - Similar to JPFP except uses authentication and has a shopping cart
 - Groups of 3 - 4 students
     
-2. **[Stackathon]** 
+2. **Stackathon** 
 [Instructor Page](https://github.com/FullstackAcademy/2022-PILOT-program-guide-web-core/tree/main/04-sr-phase/03-stackathon)
 
 [Student Page](https://github.com/karaatfullstack/2023-Senior-Phase/blob/main/Week%202/Stackathon/Student-Readme.md)
