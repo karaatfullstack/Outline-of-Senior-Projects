@@ -13,7 +13,8 @@ AWP is one of 3 solo projects you'll undertake at Grace Hopper, the other two be
 - PEP is more in-depth and we expect a polished result. This one is meant to suppliment your developer portfolio, and therefore will be publicly-facing for potential employers. It can still be on any topic, but the information should be conveyed at a more advanced and professional level, via either YouTube video or Medium article.
 
 Here is an example of a video project: [Cohort 2211 Matieral UI Project](https://www.youtube.com/watch?v=Gl7qkIu9LYM)
-Here is an example of a written project
+
+Here is an example of a written project:
 <details>
     <summary>Madeleine's Topic Piece</summary>
     For Async Week, I focused on D3, a data visualization tool. I'm adding a link to the github repo and the tutorial I was following putting this together! D3 is really sophisticated and complex, with great documentation and wide useage. I am excited to keep playing around with it and some of the very fun data sets I found to experiment with! I wanted to mention two drawbacks here:
