@@ -42,6 +42,8 @@ There may be a topic you use for 2 of these 3 projects - that's fine. Many stude
      - Students will teach themselves a new technology, language, or framework
      - They will record a 3-5 min video and upload to YouTube (like their Async Week Project)
      - They will present their video in a Zoom room to the class with opportunities to answer questions
+
+Here are some example videos from the [2108 Cohort's Stackathon](https://www.youtube.com/playlist?list=PL_yPiP-ZZLhLS18FEz-0rMrPV4-37nlcK)
         
 ### 3. Profile Enrichment Piece (PEP)
 
