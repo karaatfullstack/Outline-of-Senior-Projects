@@ -5,14 +5,14 @@
 [General Link](https://github.com/karaatfullstack/Async-Week-Guide#-async-week-project-)
 
 **Solo Project Comparison**
+
 This is technically not part of senior phase, but since it is one of 5 total projects students complete, it's being included here. 
 AWP is one of 3 solo projects you'll undertake at Grace Hopper, the other two being Stackathon and PEP.
 - For AWP and Stackathon, you will build out an application using a technology of your choice. There is no threat of failure for these, they are simply an opportunity to learn something completely different from our curriculum. 
    - That said, building an entire project is optional - the main goal is to present a new topic to your classmates via a paragraph about what you learned, OR a walkthrough video.
 - PEP is more in-depth and we expect a polished result. This one is meant to suppliment your developer portfolio, and therefore will be publicly-facing for potential employers. It can still be on any topic, but the information should be conveyed at a more advanced and professional level, via either YouTube video or Medium article.
 
-**Note**
-
+**Note:** 
 There may be a topic you use for 2 of these 3 projects - that's fine. Many students see Stackathon as an extension of AWP, and others see PEP as an extention of Stackathon. As long as you are meeting the criteria, you can chose the same topic for two projects. The third project can also be related, but try to learn more than one technology between the three.
 
 
