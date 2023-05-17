@@ -24,10 +24,12 @@ Here is an example of a written project:
    - D3 is a DOM manipulation tool just as React is, and many of the basic tutorials were for D3 in a vanilla DOM setting. Figuring out how to integrate it in a React app would be an additional step (there are many resources to help with this).
 </details>
 
+---
+
 **Note:** 
 There may be a topic you use for 2 of these 3 projects - that's fine. Many students see Stackathon as an extension of AWP, and others see PEP as an extention of Stackathon. As long as you are meeting the criteria, you can chose the same topic for two projects. The third project can also be related, but try to learn more than one technology between the three.
 
-
+--- 
 ### 1. Grace Shopper Project (GSP)
  
 [Instructor Page](https://github.com/FullstackAcademy/2022-PILOT-program-guide-web-core/tree/main/04-sr-phase/02-grace-shopper)
@@ -39,6 +41,7 @@ There may be a topic you use for 2 of these 3 projects - that's fine. Many stude
 - Similar to JPFP except uses authentication and has a shopping cart
 - Groups of 3 - 4 students
     
+---
 ### 2. Stackathon
 
 [Instructor Page](https://github.com/FullstackAcademy/2022-PILOT-program-guide-web-core/tree/main/04-sr-phase/03-stackathon)
@@ -55,6 +58,7 @@ There may be a topic you use for 2 of these 3 projects - that's fine. Many stude
 
 Here are some example videos from the [2108 Cohort's Stackathon](https://www.youtube.com/playlist?list=PL_yPiP-ZZLhLS18FEz-0rMrPV4-37nlcK)
         
+---
 ### 3. Profile Enrichment Piece (PEP)
 
 [Instructor Page](https://github.com/karaatfullstack/2023-Senior-Phase/blob/main/Week%201/Portfolio-Enrich-Piece.md)
@@ -68,6 +72,7 @@ Week 3 - Week 6
   - Students will effectively communicate complex technical topics to a non-layman reader (or viewer)
   - Drafts will be created and reviewed by peers before finishing the project
 
+---
 ### 4. Senior Capstone
 [Instructor Page](https://github.com/FullstackAcademy/2022-PILOT-program-guide-web-core/blob/main/04-sr-phase/04-capstone/01-Lesson-Plan.md)
 
