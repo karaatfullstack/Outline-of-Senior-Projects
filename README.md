@@ -18,8 +18,10 @@ Here is an example of a written project:
 <details>
     <summary>Madeleine's Topic Piece</summary>
     For Async Week, I focused on D3, a data visualization tool. I'm adding a link to the github repo and the tutorial I was following putting this together! D3 is really sophisticated and complex, with great documentation and wide useage. I am excited to keep playing around with it and some of the very fun data sets I found to experiment with! I wanted to mention two drawbacks here:
-    - D3 does not play very well with Node, which made it complicated to play around with. Ultimately, I was able to work with it by adding the script tag to the HTML, but it meant that VSCode was mad because of d3 methods being undefined in the code, and caused some other issues that I am still troubleshooting.
-    - D3 is a DOM manipulation tool just as React is, and many of the basic tutorials were for D3 in a vanilla DOM setting. Figuring out how to integrate it in a React app would be an additional step (there are many resources to help with this).
+    
+   - D3 does not play very well with Node, which made it complicated to play around with. Ultimately, I was able to work with it by adding the script tag to the HTML, but it meant that VSCode was mad because of d3 methods being undefined in the code, and caused some other issues that I am still troubleshooting.
+    
+   - D3 is a DOM manipulation tool just as React is, and many of the basic tutorials were for D3 in a vanilla DOM setting. Figuring out how to integrate it in a React app would be an additional step (there are many resources to help with this).
 </details>
 
 **Note:** 
