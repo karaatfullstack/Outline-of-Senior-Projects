@@ -25,7 +25,7 @@ Peer reviewers are also responsible for leaving upvotes/positive comments on the
 ### Submission Due Dates: 
 
 Friday, Week 3: Topics Due
-Friday, Week 6: Final Submission Due
+Friday, Week 4: Draft Due
 
 ### Additional Resources
 
